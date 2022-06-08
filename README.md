@@ -19,7 +19,7 @@ The Amazon Vine program is a service that allows sellers, publishers, and manufa
 ![unpaid_5star](https://github.com/tech-neault/Amazon_Vine_Analysis/blob/main/Resources/unpaid_5star.png)
 
 ##### Overall 5 Star Reviews - 78,080
-1[total_5star](https://github.com/tech-neault/Amazon_Vine_Analysis/blob/main/Resources/total_5star.png)
+![total_5star](https://github.com/tech-neault/Amazon_Vine_Analysis/blob/main/Resources/total_5star.png)
 
 ### Percentage of 5 Star Reviews - Vine and Non-Vine
 ##### Vine (paid) - 18.37%
